@@ -8,6 +8,8 @@ Technologies used in the project: SQL & Python with imports:
 - random - a built-in module that you can use to make random numbers,
 - datetime - module supplies classes for manipulating dates and times.
 
+Visualisation and modification of data in DB Browser for SQLite.
+
 Created tables:
 
 ![1](https://github.com/weronikaabednarz/SQL-and-Python/blob/main/screenshots/customers_table.jpg)
