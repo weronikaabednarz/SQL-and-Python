@@ -1,7 +1,7 @@
 # SQL Project to practice queries
 
 A project containing three tables: customers, sales and products.
-Used to practice querying and modifying tables using SQL language.
+Used to practice querying and modifying the database using SQL language.
 
 Technologies used in the project: SQL & Python with imports:
 - sqlite3 - library for creating, modifying and managing relational databases (e.g. SQLite database) files,
