@@ -1,4 +1,4 @@
-# SQL Project to practice queries
+# SQL Project to practice queries 
 
 A project containing three tables: customers, sales and products.
 Used to practice querying and modifying the database using SQL language.
